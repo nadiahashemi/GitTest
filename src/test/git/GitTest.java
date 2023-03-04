@@ -7,5 +7,8 @@ public class GitTest {
 	}
 	public void Tests() {
 		System.out.println("this is class practice");
+		
+		
+		System.out.println("Pusing new code changes ");
 	}
 }
